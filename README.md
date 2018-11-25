@@ -11,3 +11,4 @@ Spełnione wymagania:
 - widok szczegółu zawiera to samo co widok listy + dodatkowe elementy
 - usuwanie obiektów z listy szczegółów, widok zostaje odświeżony
 - SavedInstanceState
+- przechowywanie danych offline
