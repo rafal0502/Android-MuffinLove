@@ -1,4 +1,9 @@
 # Android-MuffinLove
+
+1. Projekt stworzony w ramach przedmiotu Programowanie aplikacji desktop i na urządzenia mobilne
+2. Środowisko: Android Studio
+
+
 Spełnione wymagania:
 - dane wczytane z pliku lub innego źródła (baza SQLite)
 - dane przechowywane w liście
