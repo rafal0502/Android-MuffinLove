@@ -12,3 +12,4 @@ Spełnione wymagania:
 - usuwanie obiektów z listy szczegółów, widok zostaje odświeżony
 - SavedInstanceState
 - przechowywanie danych offline
+- obsluga zmiany orientacji urzadzenia
