@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MuffinLove</string>
+    <string name="muffinlove_logo">Logo cukierni MuffinLove</string>
+    <string-array name="options">
+        <item>Muffiny</item>
+        <item>Ciasta</item>
+    </string-array>
+    <string name="title_activity_muffin_category">MuffinCategoryActivity</string>
+    <string name="favorites">Twoj ulubiony muffin</string>
+</resources>
